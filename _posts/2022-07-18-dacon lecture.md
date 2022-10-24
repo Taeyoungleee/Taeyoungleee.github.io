@@ -1714,7 +1714,8 @@ plt.show()
 
 
     
-![png](output_39_0.png)
+![output_39_0](https://user-images.githubusercontent.com/113446739/197523373-dc79b338-9388-48f6-a7ba-5486cfe69d3f.png)
+
     
 
 
@@ -1741,7 +1742,7 @@ plt.show()
 
 
     
-![png](output_42_0.png)
+![output_42_0](https://user-images.githubusercontent.com/113446739/197523910-040517c9-007c-4b3c-b88e-b3097c84e560.png)
     
 
 
@@ -1818,7 +1819,7 @@ plt.show()
 
 
     
-![png](output_49_1.png)
+![output_49_1](https://user-images.githubusercontent.com/113446739/197523992-b7a9ff4f-6f6e-4823-9729-07ba703c43df.png)
     
 
 
@@ -1836,7 +1837,7 @@ weekday.number_of_rentals.plot()
 
 
     
-![png](output_50_1.png)
+![output_50_1](https://user-images.githubusercontent.com/113446739/197524063-51066037-dd6c-4345-aa42-e1a127d9baa5.png)
     
 
 
@@ -1854,7 +1855,7 @@ weekend.number_of_rentals.plot()
 
 
     
-![png](output_51_1.png)
+![output_51_1](https://user-images.githubusercontent.com/113446739/197524161-e91bb6f1-c9c5-4b64-be84-11b9f511290f.png)
     
 
 
@@ -1875,8 +1876,7 @@ plt.show()
 
 
     
-![png](output_54_0.png)
-    
+![output_54_0](https://user-images.githubusercontent.com/113446739/197524220-edda4b17-eb57-4a8b-9e06-3f7ba86a18d6.png)    
 
 
 
@@ -1890,7 +1890,7 @@ plt.show()
 
 
     
-![png](output_55_0.png)
+![output_55_0](https://user-images.githubusercontent.com/113446739/197524271-6c78077b-d7af-473d-ae80-fe751ee2fa70.png)
     
 
 
@@ -1917,7 +1917,7 @@ plt.show()
 
 
     
-![png](output_58_0.png)
+![output_58_0](https://user-images.githubusercontent.com/113446739/197524326-aa1dc950-aeb1-47a3-98ca-9ac11facfb8c.png)
     
 
 
@@ -1943,7 +1943,7 @@ plt.show()
 
 
     
-![png](output_61_0.png)
+![output_61_0](https://user-images.githubusercontent.com/113446739/197524407-69136ae5-25a8-48d6-a216-b61e7eba890a.png)
     
 
 
@@ -1973,8 +1973,7 @@ plt.show()
 
 
     
-![png](output_64_0.png)
-    
+![output_64_0](https://user-images.githubusercontent.com/113446739/197524474-9cb75a82-6207-4361-a165-7d7aa486ee8b.png)    
 
 
 ## 3.1.8. 상관관계
@@ -2000,7 +1999,7 @@ sns.heatmap(data = train.corr(method='pearson'), annot=True, fmt='.2f', linewidt
 
 
     
-![png](output_66_2.png)
+![output_66_2](https://user-images.githubusercontent.com/113446739/197524541-637c321c-0ee3-4502-aa5b-5892415bc1e7.png)
     
 
 
