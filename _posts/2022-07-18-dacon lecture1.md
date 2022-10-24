@@ -1,3 +1,13 @@
+---
+layout: single
+title: "220718 데이콘 수업"
+---
+
+# 220718 데이콘 수업 자료입니다.
+
+
+
+
 ```python
 !sudo apt-get install -y fonts-nanum
 !sudo fc-cache -fv]
