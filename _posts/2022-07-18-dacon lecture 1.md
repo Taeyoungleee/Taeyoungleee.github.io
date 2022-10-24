@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "220718 dacon lecture"
+title: "220718 dacon lecture 1"
 ---
 
 220718 데이콘 수업 자료입니다.
