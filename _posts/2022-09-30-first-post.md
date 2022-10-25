@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "[Github] 블로그 만들기"
 ---
 
