@@ -9,11 +9,6 @@ title:  "Github 블로그 만들기"
 
 **Fork**는 다른 사람의 Github repository에서 내가 어떤 부분을 수정하거나 추가 기능을 넣고 싶을 때 해당 respository를 내 Github repository로 그대로 복제하는 기능입니다.  
 
-Fork를 진행한 이후 Setting의 General 탭에서 Repository name을 본인의 repository 주소로 바꿔줘야합니다.
-
-<img width="1196" alt="스크린샷 2022-10-29 오후 5 20 19" src="https://user-images.githubusercontent.com/113446739/198821500-6e2d8318-8f5c-4219-bfde-5fc85813cc56.png">
-
-
 테마들은 아래 링크에서 고를 수 있었습니다.  
 <https://github.com/topics/jekyll-theme>  
 
@@ -23,6 +18,11 @@ Fork를 진행한 이후 Setting의 General 탭에서 Repository name을 본인�
 <img width="614" alt="스크린샷 2022-10-29 오후 3 55 42" src="https://user-images.githubusercontent.com/113446739/198818442-1d02e462-9136-42bc-b33f-83d73122b2cd.png">  
 
 테마에 대한 더 자세한 정보를 알고싶다면 테마의 메인에 있는 **read.me** 파일을 읽어보면 다양한 기능과 상세한 정보들이 나와있습니다.  
+
+Fork를 진행한 이후 Setting의 General 탭에서 Repository name을 본인의 repository 주소로 꼭 바꿔줘야합니다.
+
+<img width="1196" alt="스크린샷 2022-10-29 오후 5 20 19" src="https://user-images.githubusercontent.com/113446739/198821500-6e2d8318-8f5c-4219-bfde-5fc85813cc56.png">
+
 
 
 ## 개인의 repository 복제
@@ -38,6 +38,7 @@ Fork를 진행한 이후 Setting의 General 탭에서 Repository name을 본인�
 4. 연동이 완료된 후 원하는 파일을 수정해 커밋 후 푸시해 파일을 수정하거나 추가합나다.  
     
     <img width="233" alt="스크린샷 2022-10-29 오후 5 09 10" src="https://user-images.githubusercontent.com/113446739/198821132-da58bcfe-0678-4e17-8112-ec52802a4ea8.png">
+
 
 
 ## 블로그 환경설정
