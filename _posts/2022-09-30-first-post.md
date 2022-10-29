@@ -25,9 +25,7 @@ title:  "[Github] 블로그 만들기"
 저는 Visual studio code를 이용해 Github와 연동했습니다.  
 
 1. VS CODE를 열고, 좌측 Clone Repository를 클릭합니다.  
-2. 개인의 Github 주소를 입력하고 Clone form Github를 클릭해 복제합니다.  
-
-<img width="1164" alt="스크린샷 2022-10-29 오후 4 31 01" src="https://user-images.githubusercontent.com/113446739/198819749-3ed37143-9254-4e53-aef1-38b23b22387f.png">
+2. 개인의 Github 주소를 입력하고 Clone form Github를 클릭해 복제합니다.  <img width="1164" alt="스크린샷 2022-10-29 오후 4 31 01" src="https://user-images.githubusercontent.com/113446739/198819749-3ed37143-9254-4e53-aef1-38b23b22387f.png">
 
 3. 이후 화면에서 시키는대로 진행하면 하위 폴더가 생기면서 모든 내용이 복제됩니다.  
 4. 연동이 완료된 후 원하는 파일을 수정해 커밋 후 푸시해 파일을 수정하거나 추가합나다.  
