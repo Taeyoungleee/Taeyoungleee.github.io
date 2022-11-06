@@ -963,31 +963,32 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![output_14_0](https://user-images.githubusercontent.com/113446739/200162405-c04dc9cc-1474-45c7-8f07-f37bb7b34858.png)
     
 
 
 
     
-![png](output_14_1.png)
+![output_14_1](https://user-images.githubusercontent.com/113446739/200162406-14303d8f-97ab-4ace-8d6d-24974c0762a1.png)
     
 
 
 
     
-![png](output_14_2.png)
+![output_14_2](https://user-images.githubusercontent.com/113446739/200162407-1564654e-f8c0-4af4-9f3b-de13d0a4686b.png)
     
 
 
 
     
-![png](output_14_3.png)
+![output_14_3](https://user-images.githubusercontent.com/113446739/200162408-496f3c1a-24ab-469b-a55a-251169fb1c9d.png)
     
 
 
 
     
-![png](output_14_4.png)
+![output_14_4](https://user-images.githubusercontent.com/113446739/200162409-a8c73c87-75c8-452c-8463-92115ecd7c0e.png)
+
     
 
 
@@ -1343,7 +1344,8 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![output_19_0](https://user-images.githubusercontent.com/113446739/200162498-da324372-e87d-48cb-a2d2-217274222eea.png)
+
     
 
 
@@ -1365,7 +1367,7 @@ train.sort_values(by='중식계')[['본사정원수', '본사휴가자수', '본
 
 
     
-![png](output_22_1.png)
+![output_22_1](https://user-images.githubusercontent.com/113446739/200162534-5e37e68b-8ac5-4889-b46a-721c0044b8d4.png)
     
 
 
@@ -1385,7 +1387,8 @@ train.sort_values(by='중식계')[['본사출장자수', '중식계']].reset_ind
 
 
     
-![png](output_24_1.png)
+![output_24_1](https://user-images.githubusercontent.com/113446739/200162542-8db7c1f7-711f-4acd-9aed-9790588629b9.png)
+
     
 
 
@@ -1405,7 +1408,8 @@ train.sort_values(by='중식계')[['본사휴가자수', '중식계']].reset_ind
 
 
     
-![png](output_26_1.png)
+![output_26_1](https://user-images.githubusercontent.com/113446739/200162552-643968c5-a62d-4406-9885-01fcb45ed78c.png)
+
     
 
 
@@ -1429,7 +1433,8 @@ train.sort_values(by='중식계')[['현재원', '중식계']].reset_index(drop=T
 
 
     
-![png](output_28_1.png)
+![output_28_1](https://user-images.githubusercontent.com/113446739/200162562-06c8d283-c3a2-41c6-821b-9ff843128254.png)
+
     
 
 
@@ -1443,7 +1448,8 @@ plt.show()
 
 
     
-![png](output_30_0.png)
+![output_30_0](https://user-images.githubusercontent.com/113446739/200162572-1734f2ca-05e0-4b40-80d1-60fd8ee132d1.png)
+
     
 
 
@@ -1463,7 +1469,8 @@ train.sort_values(by='석식계')[['본사시간외근무명령서승인건수',
 
 
     
-![png](output_32_1.png)
+![output_32_1](https://user-images.githubusercontent.com/113446739/200162582-9713c5b3-690e-463a-8240-cc5954fe8086.png)
+
     
 
 
@@ -1483,7 +1490,8 @@ train.sort_values(by='석식계')[['중식계', '석식계']].reset_index(drop=T
 
 
     
-![png](output_34_1.png)
+![output_34_1](https://user-images.githubusercontent.com/113446739/200162590-3574cbab-a0f4-4c3b-ab5d-125ba73c36fc.png)
+
     
 
 
@@ -1516,7 +1524,8 @@ train.sort_values(by='중식계')[['본사정원수', '중식계']].reset_index(
 
 
     
-![png](output_38_1.png)
+![output_38_1](https://user-images.githubusercontent.com/113446739/200162605-a0b10d77-4814-4fb8-971a-47fe318d9a93.png)
+
     
 
 
@@ -1536,7 +1545,8 @@ train.sort_values(by='중식계')[['현재원', '중식계']].reset_index(drop=T
 
 
     
-![png](output_40_1.png)
+![output_40_1](https://user-images.githubusercontent.com/113446739/200162613-31c0fa47-1e4d-4835-8358-2333748681cf.png)
+
     
 
 
@@ -1556,7 +1566,7 @@ train.sort_values(by='석식계')[['중식계', '석식계']].reset_index(drop=T
 
 
     
-![png](output_42_1.png)
+![output_42_1](https://user-images.githubusercontent.com/113446739/200162621-4bbb961f-23a4-45c6-a2b6-d13003fbfe92.png)
     
 
 
@@ -3274,7 +3284,7 @@ plt.show()
 
 
     
-![png](output_53_0.png)
+![output_53_0](https://user-images.githubusercontent.com/113446739/200162638-a6300ac6-0415-44b4-bb6b-f3ab7fd6979e.png)
     
 
 
@@ -3783,7 +3793,7 @@ plt.barh(x,y)
 
 
     
-![png](output_61_1.png)
+![output_61_1](https://user-images.githubusercontent.com/113446739/200162645-405ef956-4eaa-43d1-9afc-1333278608db.png)
     
 
 
@@ -3850,8 +3860,7 @@ plt.barh(x,y)
 
 
     
-![png](output_66_1.png)
-    
+![output_66_1](https://user-images.githubusercontent.com/113446739/200162659-4269de4b-69de-4e7f-ab74-e61ea52179c4.png)    
 
 
 # 모델 선택,모델 튜닝
@@ -4914,8 +4923,7 @@ plt.plot(lunch_count_predict)
 
 
     
-![png](output_78_1.png)
-    
+![output_78_1](https://user-images.githubusercontent.com/113446739/200162675-d27a50a3-3425-466c-8f0f-2c9c43e26168.png)    
 
 
 #### a)랜덤포레스트 모델 시각화
@@ -5056,7 +5064,7 @@ Image(filename = 'decision-tree.png')
 
 
     
-![png](output_81_0.png)
+![output_81_0](https://user-images.githubusercontent.com/113446739/200162687-fe499ca9-7aa7-4d3a-98ac-c02ae0208c67.png)
     
 
 
@@ -6098,7 +6106,7 @@ plt.plot(dinner_count_predict)
 
 
     
-![png](output_86_1.png)
+![output_86_1](https://user-images.githubusercontent.com/113446739/200162697-5c23b974-45ba-4ea6-a037-9db731d8ded4.png)
     
 
 
@@ -6138,8 +6146,7 @@ plt.plot(lunch_count_predict)
 
 
     
-![png](output_90_1.png)
-    
+![output_90_1](https://user-images.githubusercontent.com/113446739/200162707-af8edbdd-72dc-4758-b1eb-d2ec53ac21ee.png)    
 
 
 ### 2)석식계 예측 모델
@@ -6171,7 +6178,7 @@ plt.plot(dinner_count_predict)
 
 
     
-![png](output_92_1.png)
+![output_92_1](https://user-images.githubusercontent.com/113446739/200162716-2b2977b4-f70a-4c58-be75-80e6ce1c1c9e.png)
     
 
 
@@ -6225,8 +6232,7 @@ plt.bar(x,y)
 
 
     
-![png](output_96_1.png)
-    
+![output_96_1](https://user-images.githubusercontent.com/113446739/200162726-9d589afc-67dc-4251-af06-75a1a0525610.png)    
 
 
 
