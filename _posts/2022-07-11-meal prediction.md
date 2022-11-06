@@ -1,3 +1,8 @@
+---
+layout: single
+title: "220711 dacon lecture - meal prediction"
+---
+
 # EDA, 모델 수정2
 
 ## 0.준비
