@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "220718 Dacon - bicycle prediction"
+title: "Dacon - bicycle prediction"
 ---
 
 데이콘 따릉이 예측 코드입니다.
