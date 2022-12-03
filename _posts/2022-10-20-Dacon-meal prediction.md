@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "220711 Dacon - meal prediction"
+title: "Dacon - meal prediction"
 ---
 
 # EDA, 모델 수정2
