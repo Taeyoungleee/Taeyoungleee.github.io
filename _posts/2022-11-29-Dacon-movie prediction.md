@@ -429,8 +429,7 @@ sns.scatterplot(data=train, x='num_staff', y = 'box_off_num')
 
 
     
-![png](output_12_1.png)
-    
+![output_12_1](https://user-images.githubusercontent.com/113446739/205431376-7ba84116-693d-4f9f-9ff6-cdd21845b951.png)    
 
 
 스탭수가 많으면 관객수가 조금 많은거 같다.
@@ -450,7 +449,7 @@ sns.scatterplot(data=train, x='time', y = 'box_off_num')
 
 
     
-![png](output_14_1.png)
+![output_14_1](https://user-images.githubusercontent.com/113446739/205431377-b0dc2a5d-3c92-4762-a243-5188da09b3fa.png)
     
 
 
@@ -471,7 +470,7 @@ sns.scatterplot(data=train, x='genre', y = 'box_off_num')
 
 
     
-![png](output_16_1.png)
+![output_16_1](https://user-images.githubusercontent.com/113446739/205431378-1863d0d8-ecb3-4628-8123-8b0aa8220e1d.png)
     
 
 
@@ -492,7 +491,7 @@ sns.scatterplot(data=train, x='num_actor', y = 'box_off_num')
 
 
     
-![png](output_18_1.png)
+![output_18_1](https://user-images.githubusercontent.com/113446739/205431380-7698444a-10a9-433f-9198-e185baa470c0.png)
     
 
 
@@ -1320,7 +1319,7 @@ plt.show()
 
 
     
-![png](output_40_0.png)
+![output_40_0](https://user-images.githubusercontent.com/113446739/205431382-6a4d9974-f0c1-489d-ba41-3bf9d811cd64.png)
     
 
 
@@ -1338,7 +1337,8 @@ sns.heatmap(train.corr(), annot = True)
 
 
     
-![png](output_41_1.png)
+![output_41_1](https://user-images.githubusercontent.com/113446739/205431383-01939a90-a3dc-460e-8c02-50305b98b967.png)
+
     
 
 
