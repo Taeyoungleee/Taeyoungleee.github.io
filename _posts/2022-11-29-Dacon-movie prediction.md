@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Dacon - movie prediction"
+---
+
 # 영화 관객수 예측 모델
 
 ## 라이브러리 및 Data set 불러오기
