@@ -3,6 +3,8 @@ layout: single
 title: "Dacon - Genetic Classification"
 ---
 
+데이콘 유전체 정보 품종 분류 AI 경진대회
+
 ```python
 !sudo apt-get install -y fonts-nanum
 !sudo fc-cache -fv
@@ -153,6 +155,7 @@ Dataset Info.
 ### sample_submission.csv [파일] - 제출 양식
 1. id : 개체 샘플 별 고유 ID
 2. class : 예측한 개체의 품종 (A,B,C)
+
 
 # 1. 데이터 살펴보기
 
@@ -1508,8 +1511,9 @@ plt.title('chrom 종류별 개수')
 
 
     
-![png](output_19_1.png)
-    
+![output_19_1](https://user-images.githubusercontent.com/113446739/210498267-fdd7d77a-eeba-4fed-88c7-4891ee1b0d09.png)
+
+
 
 
 
@@ -1528,8 +1532,8 @@ plt.title('유전거리 분포')
 
 
     
-![png](output_20_1.png)
-    
+![output_20_1](https://user-images.githubusercontent.com/113446739/210498273-104cdc33-ca35-448c-93a7-b60ef3560e39.png)
+
 
 
 
@@ -1548,7 +1552,7 @@ plt.title('각 마커 유전체상 위치정보')
 
 
     
-![png](output_21_1.png)
+![output_21_1](https://user-images.githubusercontent.com/113446739/210498276-1769f492-df9d-4ea4-9591-4c5c1075f46b.png)
     
 
 
@@ -1902,7 +1906,7 @@ plt.title('chrom=6 인 SNP의 유전거리')
 
 
     
-![png](output_26_1.png)
+![output_26_1](https://user-images.githubusercontent.com/113446739/210498277-de4c2977-544a-4a44-8051-d9ab2956fb8d.png)
     
 
 
@@ -1922,7 +1926,7 @@ plt.title('chrom=6 인 SNP의 유전체상 위치정보')
 
 
     
-![png](output_27_1.png)
+![output_27_1](https://user-images.githubusercontent.com/113446739/210498280-777265d2-68d4-4328-adf9-bfd7768a4ef5.png)
     
 
 
@@ -1942,7 +1946,7 @@ plt.title('chrom=9 인 SNP의 유전거리')
 
 
     
-![png](output_28_1.png)
+![output_28_1](https://user-images.githubusercontent.com/113446739/210498282-11a6e80f-b046-44e1-a4b3-2fe5567b3008.png)
     
 
 
@@ -1962,7 +1966,7 @@ plt.title('chrom=9 인 SNP의 유전체상 위치정보')
 
 
     
-![png](output_29_1.png)
+![output_29_1](https://user-images.githubusercontent.com/113446739/210498284-5e7fd700-f89c-443f-865b-a7f031934374.png)
     
 
 
@@ -2826,7 +2830,7 @@ sns.heatmap(train_num.astype(float).corr(), linewidths = 0.1, vmax = 1.0,
 
 
     
-![png](output_45_1.png)
+![output_45_1](https://user-images.githubusercontent.com/113446739/210498287-0f1c743f-f706-464c-875f-f97d548dabc7.png)
     
 
 
