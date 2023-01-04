@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Dacon - Genetic Classification"
+---
+
 ```python
 !sudo apt-get install -y fonts-nanum
 !sudo fc-cache -fv
