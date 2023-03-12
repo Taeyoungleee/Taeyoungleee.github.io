@@ -2,6 +2,7 @@
 layout: single
 title:  "간단한 Github 블로그 만들기"
 categories: information
+tag: [python, blog, github]
 ---
 
 ## 깃허브 블로그 만들기-테마 선택
